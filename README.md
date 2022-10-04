@@ -1,22 +1,5 @@
 # Imagens-tcc
 Mapa do Campus
 
-![Eng](https://user-images.githubusercontent.com/106028045/192545714-88d18d25-0f1b-4d19-bda4-88ef58f624ec.JPEG)
-![Hospital Vet](https://user-images.githubusercontent.com/106028045/193879770-7a5fc150-c6e2-4462-9245-e61d705b1e7e.JPEG)
-![Informatica](https://user-images.githubusercontent.com/106028045/193879775-6920260a-fc34-4797-98c7-1ce8ba341697.JPEG)
-![Lab  Med Vet](https://user-images.githubusercontent.com/106028045/193879777-46542106-491f-4883-9abd-a641ccf853d4.JPEG)
-![LEG](https://user-images.githubusercontent.com/106028045/193879778-1e7b4df6-be77-49bb-9e6a-41964aa6ef84.JPEG)
-![Matemática](https://user-images.githubusercontent.com/106028045/193879781-e1b18b48-c5ab-418c-b4a9-cf6f1a5490af.JPEG)
-![Med  Vet](https://user-images.githubusercontent.com/106028045/193879784-c40f0bf0-8ad4-472d-b25d-68d579a38439.JPEG)
-![Pesquisa](https://user-images.githubusercontent.com/106028045/193879787-0274b81f-39ac-4315-9a2b-d1857a5d82e8.JPEG)
-![Posto de Saúde](https://user-images.githubusercontent.com/106028045/193879791-8147dcd9-d993-484f-bcca-6b7cb9a52b98.JPEG)
-![Prédio dos Professores](https://user-images.githubusercontent.com/106028045/193879792-9c82a38c-d578-4157-b4ab-ef61ce186d00.JPEG)
-![Prefeitura](https://user-images.githubusercontent.com/106028045/193879793-821cfb92-d6af-4de4-919f-1cac5b0ee576.JPEG)
-![Química](https://user-images.githubusercontent.com/106028045/193879794-a3a17e8e-dcc0-4783-bb89-0b039c2a52f3.JPEG)
-![Refeitorio](https://user-images.githubusercontent.com/106028045/193879798-1ea07345-d4dc-4f80-9193-0e8477434c41.JPEG)
-![RH](https://user-images.githubusercontent.com/106028045/193879800-71166d4e-a3e1-43eb-b981-c54ea727bcf3.JPEG)
-![Sec  Superior](https://user-images.githubusercontent.com/106028045/193879801-ea735776-ace4-45e9-b9db-ceb36db0da92.JPEG)
-![Biblioteca](https://user-images.githubusercontent.com/106028045/193879803-57f2c3e6-ac48-41d7-803f-ebf31376ca53.JPEG)
-![Biologia](https://user-images.githubusercontent.com/106028045/193879805-5ceb9dc4-a730-4156-802b-7b167e31ceb6.jpeg)
-![Cão guia](https://user-images.githubusercontent.com/106028045/193879808-025c2ea7-b966-4730-86da-bbcff42f8a3f.JPEG)
-![Extensão](https://user-images.githubusercontent.com/106028045/193879814-bd457119-e979-4a18-92eb-0151d08ffe42.JPEG)
+
+![IMG_3169](https://user-images.githubusercontent.com/106028045/193918414-6fd13355-a2d7-49f3-b60f-597064f8ae6e.jpeg)
