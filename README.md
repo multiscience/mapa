@@ -25,3 +25,4 @@ Mapa do Campus
 ![Adm](https://user-images.githubusercontent.com/106028045/194166470-7a8e832e-e408-488e-b158-8533b3b6a389.jpeg)
 ![jogador-de-futebol](https://user-images.githubusercontent.com/106028045/194393349-52a96803-0216-43f8-86c1-5ce02eef684f.png)
 ![voleibol](https://user-images.githubusercontent.com/106028045/194393352-f59bca12-b014-4528-ab01-6ae0173b7355.png)
+![tenis](https://user-images.githubusercontent.com/106028045/194396524-135abbe3-e869-45bd-84be-0a7b6a3fbedb.png)
