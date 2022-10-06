@@ -23,3 +23,5 @@ Mapa do Campus
 ![Cão guia](https://user-images.githubusercontent.com/106028045/194160117-c7442f5f-120f-4f9e-8a78-8a4029124a3c.JPEG)
 ![Vet](https://user-images.githubusercontent.com/106028045/194164667-4ddc7d5a-9216-44e3-8c0b-0702fd38b305.JPEG)
 ![Adm](https://user-images.githubusercontent.com/106028045/194166470-7a8e832e-e408-488e-b158-8533b3b6a389.jpeg)
+![jogador-de-futebol](https://user-images.githubusercontent.com/106028045/194393349-52a96803-0216-43f8-86c1-5ce02eef684f.png)
+![voleibol](https://user-images.githubusercontent.com/106028045/194393352-f59bca12-b014-4528-ab01-6ae0173b7355.png)
