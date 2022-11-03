@@ -17,7 +17,7 @@ Mapa do Campus
 ![Prefeitura](https://user-images.githubusercontent.com/106028045/194160093-fcade442-00ac-4b7a-a245-337bc0c6ce19.JPEG)
 ![Quimica](https://user-images.githubusercontent.com/106028045/194160095-7a3cc867-dedd-4763-bf70-1c6b5b8c3bc4.JPEG)
 ![Refeitorio](https://user-images.githubusercontent.com/106028045/194160099-1a0474ce-eb0d-4a48-b9ae-0da93e75e2cc.JPEG)
-![RH](https://user-images.githubusercontent.com/106028045/194160105-80cb1018-b29a-441b-92f3-9d59b5c32ac2.jpeg)
+![RH](https://user-images.githubusercontent.com/106028045/199836320-13774692-20dd-410d-8a41-89490565c13b.jpeg)
 ![Sec. superior](https://user-images.githubusercontent.com/106028045/194160109-70c3745e-b861-46aa-a9a8-e5440f6a044b.JPEG)
 ![Biologia](https://user-images.githubusercontent.com/106028045/194160114-339d137e-ec23-4578-89a3-c7091dc70eb9.jpeg)
 ![Cão guia](https://user-images.githubusercontent.com/106028045/194160117-c7442f5f-120f-4f9e-8a78-8a4029124a3c.JPEG)
