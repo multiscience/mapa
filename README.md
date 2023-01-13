@@ -94,3 +94,4 @@ Mapa do Campus
 ![UAPC](https://user-images.githubusercontent.com/106028045/199836630-0ab6c96c-de3c-4dfa-887f-976fcfd29db0.JPEG)
 ![UPFH](https://user-images.githubusercontent.com/106028045/199836633-dee27b46-1989-4e02-841a-1c2dc4076804.JPEG)
 ![Vestiario](https://user-images.githubusercontent.com/106028045/199836636-f410b2a0-c09a-4ca0-b8b3-18ccaf015c0d.JPEG)
+![Ens  Médio](https://user-images.githubusercontent.com/106028045/212399973-0dad7fe1-6ed8-4cef-9658-2a057016deb9.png)
