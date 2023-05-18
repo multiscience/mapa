@@ -1,6 +1,6 @@
 
 #********************************************************************************
-# Script R para web mapa do Instituto Federal Goiano - campus UrutaÌ
+# Script R para web mapa do Instituto Federal Goiano - campus Uruta√≠
 # Autoria: Pedro Valasco dos Santos, Anderson Rodrigo da Silva
 #*********************************************************************************
 
@@ -13,6 +13,7 @@ library(basemaps)
 library(sp)
 library(leafem)
 library(leaflet.extras)
+library(inlmisc)
 
 #-------------------------------------------------------------------
 icon.bus = makeIcon("https://raw.githubusercontent.com/arsilva87/misc/main/bus-solid.svg",
@@ -32,7 +33,7 @@ mapa <- leaflet(options = leafletOptions(zoomControl = FALSE)) %>%
   setView(lng = -48.2142, lat = -17.4877, zoom = 16) %>%
   addControl(header, position = "topright") %>%
   addTiles() %>%
-  addProviderTiles("Wikimedia", group = "Mapa Padr„o") %>%
+  addProviderTiles("Wikimedia", group = "Mapa Padr√£o") %>%
   addProviderTiles("Esri.WorldImagery", group = "Terreno") %>%
   addScaleBar(position = "bottomright", 
               options = scaleBarOptions(imperial = FALSE)) %>%
@@ -49,12 +50,16 @@ mapa <- leaflet(options = leafletOptions(zoomControl = FALSE)) %>%
               popup = ~paste0(ifelse(is.na(NAME),"", NAME), "</br>", 
                               ifelse(is.na(DESCRIPTIO), "", DESCRIPTIO),
                            "<img src ='", IMG,  "' style='width:300px;'/>")) %>%
+  addLabelOnlyMarkers(data = campus, 
+                      lng = coordinates(campus)[,1], 
+                      lat = coordinates(campus)[,2], 
+                      group = "setor", label = ~NAME) %>%
   # -------------------------------------------------------------------
   # Icones
   # -------------------------------------------------------------------
   addMarkers(lng = c(-48.2066311, -48.2151248), 
              lat = c(-17.4672390, -17.4872543), 
-             icon = icon.bus, label = "Ponto de ‘nibus", group = "Ponto de ‘nibus") %>%
+             icon = icon.bus, label = "Ponto de √înibus", group = "Ponto de √înibus") %>%
   addMarkers(lng = c(-48.2124913, -48.2156302, -48.2162056, -48.2169115,
                      -48.2160227, -48.2171953, -48.2149846, -48.2190501, -48.21259009), 
              lat = c(-17.4863885, -17.4889605, -17.4897119, -17.4900382, 
@@ -63,19 +68,19 @@ mapa <- leaflet(options = leafletOptions(zoomControl = FALSE)) %>%
   # ---------------------------------------------------------------------
   # Dispositivos e Legendas
   # ---------------------------------------------------------------------
-  addLayersControl(baseGroups = c("Mapa Padr„o", "Terreno"),
-                 overlayGroups = c("Ponto de ‘nibus", "Estacionamento"),
+  addLayersControl(baseGroups = c("Mapa Padr√£o", "Terreno"),
+                 overlayGroups = c("Ponto de √înibus", "Estacionamento"),
                  options = layersControlOptions(collapsed = TRUE)) %>%
   addControlGPS(options = gpsOptions(position = "topright", activate = TRUE, 
                                      autoCenter = TRUE, maxZoom = 10, 
                                      setView = TRUE)) %>%
-  addLegend(position = "bottomright", labels = c("PrÈdios", "Fazenda"), 
+  AddSearchButton(group = "setor", zoom = 18,
+                  textPlaceholder = "Pesquisar", 
+                  position = "topright") %>%
+  addLegend(position = "bottomright", labels = c("Pr√©dios", "Fazenda"), 
             colors = c("red", "green"))
 
 mapa
+
 #-------------------------------------------------------------------------
-
-mapa = inlmisc::AddSearchButton(mapa, group = "NAME", zoom = 15,
-                             textPlaceholder = "Pesquisar")
-
 # htmlwidgets::saveWidget(mapa, "mapa_campus.html")
