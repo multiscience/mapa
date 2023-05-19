@@ -1,0 +1,41 @@
+---
+title: "&#x1F30E; Sobre"
+author: ""
+date: "Urutaí - Goiás, 18 de Maio de 2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div style="text-align: right"> [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+</div>
+
+<br/>
+
+### O Campus Urutaí
+
+O [Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Urutaí](https://www.ifgoiano.edu.br/home/index.php/urutai) é um ambiente público frequentado por estudantes de diversos níveis de ensino, desde o médio até a pós-graduação, bem como por servidores, pesquisadores e visitantes em geral de várias regiões do país e também do exterior, em especial quando há eventos acadêmicos. De uma área total superior a 500 hectares, 320 ha constituem a área principal do campus, com cerca de 70 edificações, entre salas de aulas, laboratórios e prédios administrativos. O restante da área do campus é destinada à produção agropecuária: animais de corte e produção de leite, bem como uma área para produção de grãos, que inclui uma área (~20 ha) com sistema de irrigação por pivô central, e áreas para condução de estudos em campo.
+
+O Campus Urutaí está localizado na *região da estrada-de-ferro*, no sudeste do Estado de Goiás. Longitude: 48,2142 Oeste, Latitude: 17,4877 Sul. Endereço: Rodovia Geraldo Silva Nascimento Km 2,5. CEP 75790-000. Urutaí, Goiás. 
+
+### O Mapa
+
+O mapa do IF Goiano - Campus Urutaí foi desenvolvido por Pedro Valasco dos Santos, sob orientação do professor Anderson Rodrigo da Silva, como trabalho de conclusão do Bacharelado em Engenharia Agrícola. 
+
+[<img src="pedro.jpeg" height="100">](http://lattes.cnpq.br/5560469164970345)  |  [<img src="anderson.jpg" width="100">](http://lattes.cnpq.br/3916683240962357)
+-----:|:-----
+Pedro | Anderson 
+
+O *web* mapa foi construído com o pacote *leaflet* (baseado na biblioteca original de código aberto escrita em JavaScript, <https://leafletjs.com>) do software livre [R](www.r-project.org). O produto é interativo, consistindo de um arquivo em formato *html* auto-contido. Clicando sobre os polígonos permite que o usuário acesse informações sobre as instalações e visualize fotos dos locais. As imagens utilizadas são originais e foram capturadas entre junho de 2022 e janeiro de 2023. 
+
+Os autores agradecem aos servidores e estudantes que colaboraram com as informações utilizadas no mapa.
+
+### &#x2709; Contato
+Ajude-nos a melhorar o mapa do campus. Sugestões, críticas e elogios são bem-vindos. Entre em contato conosco por e-mail: <anderson.silva@ifgoiano.edu.br>, <pedrovalasco@hotmail.com>
+
+### &#x2714; Avalie
+Se você é usuário do mapa, preencha o formulário disponível [aqui](https://forms.gle/MjCH2pS17pceASkF7) e registre a sua avaliação - ela é importante.
+
+<br/>
